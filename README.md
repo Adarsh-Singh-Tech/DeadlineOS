@@ -471,8 +471,20 @@ The showcase includes:
 - Multi-Entity Management
 - Mobile Experience
 - License & Subscription Management
+---
+
 ## 🖼️ Screenshots
 
+## Live Showcase
+
+🌐 Product Showcase:
+https://adarsh-singh-tech.github.io/DeadlineOS/preview/preview.html
+
+📚 Documentation:
+./docs
+
+🚀 Source Code:
+./src
 ---
 > Interface assets will be added here as the product UI is built.
 
