@@ -452,8 +452,27 @@ A typical operational session inside DeadlineOS:
 
 ---
 
+
+## 📸 Product Showcase
+
+DeadlineOS is an AI-Native Compliance Operating System designed to help Indian SMBs and Chartered Accountants manage statutory obligations, filing workflows, reporting, and multi-entity compliance operations.
+
+### Interactive Product Walkthrough
+
+➡️ [Open Product Showcase](./preview/preview.html)
+
+The showcase includes:
+
+- Dashboard Overview
+- Compliance Calendar Hub
+- Reporting Engine
+- Practitioner Workspace
+- Multi-Entity Management
+- Mobile Experience
+- License & Subscription Management
 ## 🖼️ Screenshots
 
+---
 > Interface assets will be added here as the product UI is built.
 
 ```md
