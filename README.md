@@ -475,13 +475,6 @@ The showcase includes:
 ---
 > Interface assets will be added here as the product UI is built.
 
-```md
-![Executive Dashboard](./docs/assets/dashboard-overview.png)
-![Compliance Calendar](./docs/assets/compliance-calendar.png)
-![Task Detail View](./docs/assets/task-detail.png)
-![AI Insight Panel](./docs/assets/ai-insights.gif)
-![Admin Panel](./docs/assets/admin-config.png)
-```
 
 ### Suggested Demo Flow
 - Dashboard overview — overdue and at-risk summary
