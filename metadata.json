@@ -1,0 +1,6 @@
+{
+  "name": "DeadlineOS",
+  "description": "AI-powered compliance calendar and filing tracker for Indian SMBs, featuring auto-mapped tax timelines, reminders, and a CA dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
