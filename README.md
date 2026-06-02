@@ -451,7 +451,8 @@ A typical operational session inside DeadlineOS:
 > This turns compliance from scattered follow-up into a **managed operating rhythm**.
 
 ---
-
+<img width="1280" height="864" alt="DeadlineOS project coverage" src="https://github.com/user-attachments/assets/298e931d-63ba-4936-8adb-179f5631a035" />
+---
 
 ## 📸 Product Showcase
 
